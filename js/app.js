@@ -138,8 +138,7 @@ bleBtn.addEventListener('pointerup', function(event) {
     optionalServices: [
       'ef680200-9b35-4933-9b10-52ffa9740042',
       'ef680300-9b35-4933-9b10-52ffa9740042',
-      'ef680400-9b35-4933-9b10-52ffa9740042',
-      'ef680500-9b35-4933-9b10-52ffa9740042'
+      '0000180f-0000-1000-8000-00805f9b34fb'
     ]
   }).then(device => {
     console.log(device);
